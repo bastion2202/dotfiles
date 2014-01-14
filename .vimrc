@@ -7,8 +7,6 @@ set shiftwidth=2
 set expandtab
 set mouse=a
 set number
-syntax enable
-
 "set background=dark
 set background=light
 colorscheme solarized
