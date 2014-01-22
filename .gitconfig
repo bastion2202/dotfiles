@@ -23,3 +23,6 @@
 	untracked = cyan
 [push]
 	default = simple
+[user]
+	name = Frederic Medery
+	email = frederic.medery@adgear.com
